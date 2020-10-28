@@ -9,17 +9,17 @@ yarn add -D wp5-cli
 
 ### **新建模版(init)**
 ```
-npx wp5-cli init
+npx wp5 init
 ```
 
 ### **开发(dev)**
 ```
-npx wp5-cli dev
+npx wp5 dev
 ```
 
 ### **打包(build)**
 ```
-npx wp5-cli build
+npx wp5 build
 ```
 
 
