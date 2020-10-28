@@ -1,7 +1,7 @@
 {
   "name": "wp5-cli",
   "version": "0.1.0",
-  "description": "a cli tool with Webpack 5 like Create-React-App",
+  "description": "A Cli Tool With Webpack 5 Like Create-React-App",
   "bin": {
     "wp5": "./bin/wp5.js"
   },
