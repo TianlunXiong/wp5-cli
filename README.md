@@ -2,6 +2,9 @@
 
 ## **安装(install):**
 ```
+npm init -y
+```
+```
 yarn add -D wp5-cli
 ```
 
