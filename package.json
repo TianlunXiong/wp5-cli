@@ -1,11 +1,19 @@
 {
   "name": "wp5-cli",
-  "version": "0.1.2-beta.1",
+  "version": "0.1.2-beta.2",
   "description": "A Cli Tool With Webpack 5 Like Create-React-App",
   "bin": {
     "wp5": "./bin/wp5.js"
   },
+  "keywords": [
+    "webpack",
+    "module-federation",
+    "cli",
+    "react",
+    "tools"
+  ],
   "author": "xiongtianlun",
+  "repository": "https://github.com/TianlunXiong/wp5-cli",
   "license": "MIT",
   "scripts": {
     "build": "rm -rf lib && babel src --extensions .ts --out-dir lib --copy-files"
